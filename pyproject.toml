@@ -1,0 +1,10 @@
+[project]
+name = "codegen"
+version = "0.0.1"
+description = "multi purpose code generation for mobile/browser testing"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "commitizen>=4.8.3",
+    "pre-commit>=4.2.0",
+]
